@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 2.7.0
+
+-   Support added for Chart.js version 4
+
 ## 2.6.0
 
 -   [BC BREAK] The `assets/` directory was moved from `Resources/assets/` to `assets/`. Make
