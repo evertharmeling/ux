@@ -3,6 +3,7 @@
 ## 2.17.0
 
 -   Add `chartjs:view-value-change` event #1605
+-   Replace `chartjs/auto` import with explicit `Chart.register()` call #1263
 
 ## 2.15.0
 
