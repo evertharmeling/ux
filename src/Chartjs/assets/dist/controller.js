@@ -1,6 +1,8 @@
 import { Controller } from '@hotwired/stimulus';
 import { Chart, registerables } from 'chart.js';
 
+console.log(registerables);
+
 Chart.register(...registerables);
 let isChartInitialized = false;
 class default_1 extends Controller {
